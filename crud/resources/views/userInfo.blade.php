@@ -15,7 +15,6 @@
             User Information
         </h2>
 
-        {{-- USER DETAILS --}}
         <div class="space-y-3 text-gray-700">
 
             <div class="flex justify-between border-b pb-2">
